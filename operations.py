@@ -39,3 +39,4 @@ def maismagro(valo, consta):
         return ("Você é mais magro")
     else:
         return ("Você não é mais magro")
+
